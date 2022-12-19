@@ -1,0 +1,4 @@
+
+storePassword=groomlyfe
+keyPassword=groomlyfe
+keyAlias=groomlyfe

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>738611452988-ecik0shcqjoq3r0likls7vv7c7pmq9jg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.738611452988-ecik0shcqjoq3r0likls7vv7c7pmq9jg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>738611452988-ldc7h3r5pv59jjt72ff352be9c11p95s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABdCTfnLbPY0xwcQT9RjNLs3uX6NZbsUw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>738611452988</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.groomlyfe.app</string>
+	<key>PROJECT_ID</key>
+	<string>groomlyfe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>groomlyfe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:738611452988:ios:35c871925c9a0be20c3739</string>
+	<key>DATABASE_URL</key>
+	<string>https://groomlyfe.firebaseio.com</string>
+</dict>
+</plist>

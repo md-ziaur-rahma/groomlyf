@@ -1,0 +1,291 @@
+{
+  "project_info": {
+    "project_number": "738611452988",
+    "firebase_url": "https://groomlyfe.firebaseio.com",
+    "project_id": "groomlyfe",
+    "storage_bucket": "groomlyfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738611452988:android:8894d6cedd709c9e0c3739",
+        "android_client_info": {
+          "package_name": "com.dev.groomlyfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738611452988-3j4b84gqenvusfoa8u6cj7huejeks7ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "d5ae9ed827b345452f2db4765c285a365a5b9fe9"
+          }
+        },
+        {
+          "client_id": "738611452988-4g6806he4q42jkp8c220suvbphs30kb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "96a99a75ae9c71e2877c77ad564995e93b819570"
+          }
+        },
+        {
+          "client_id": "738611452988-8fbpj071ti4mcf875bpfdcrnjp2olvmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "576a7fbbf1e21bfde05db9e4c512fd81f0b245e0"
+          }
+        },
+        {
+          "client_id": "738611452988-bgj5kbg9f1o2cn308a8iqhsldgr3v63t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "379cc697234cef4b4d2e6e2ae5709682c568954f"
+          }
+        },
+        {
+          "client_id": "738611452988-fg7go0paiuv2slvtp67a8pveudkh2dmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "d13d09d58c37e9e607640ca6b1e5c1f2b580bfb7"
+          }
+        },
+        {
+          "client_id": "738611452988-giqmso7v95q57dkaaplrdsjc6v9c5o1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "8e04e7a40f1378c41ac4bf11fce5c6e77213678a"
+          }
+        },
+        {
+          "client_id": "738611452988-ho23ik087ftsgg9ucdkd16ai4nmi53md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "b15042a5258aeff73f070e882ba9c63d5d38ecad"
+          }
+        },
+        {
+          "client_id": "738611452988-ic419bjbahtvugav9ddgb502dc684sod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "eaa5a6e01525ea178c267bfbcc5c979f5a37628e"
+          }
+        },
+        {
+          "client_id": "738611452988-m5ti7im33rem9ace9j8gcd9glhmm0u0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "4ec42ef4e4b09c54e43225442864f8d1815c805f"
+          }
+        },
+        {
+          "client_id": "738611452988-pmipuk7mb9d8o459tv731e2c33e740cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "f1f5a62c455ea7b4bd070ce9be451dad4e2ca06a"
+          }
+        },
+        {
+          "client_id": "738611452988-pumgojcbu5ra84neirgkb6pm864sq10s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "ea49e510fb86d8a06c93657cb907451bbfdaa374"
+          }
+        },
+        {
+          "client_id": "738611452988-qmk7ehgdoj3nnf4hg84e6pff655r4bed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "0a8ab3db44bdf3e4c8366361729bc3cc3b3697d2"
+          }
+        },
+        {
+          "client_id": "738611452988-rb4omor4dsgjrmg6j2venuf72ntuceql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "509a1b808e1871dcd8aa10e9cb05ab5f3f1376bb"
+          }
+        },
+        {
+          "client_id": "738611452988-rhngvi49bmvflr5hfmo52nbg068mej0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "499c1b8e30ec447cd0b50f0edc741902df024d81"
+          }
+        },
+        {
+          "client_id": "738611452988-vvqnd7eqlhv5kuu79qqqm7shgt2b60so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.groomlyfe",
+            "certificate_hash": "52410b9fc957cb3e0cbd36f67bec1158b63e24eb"
+          }
+        },
+        {
+          "client_id": "738611452988-5h4k64vs2lloj8lauv6co3gm2uod38ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwv59d_dSyqyuqtMUoDIf4LJBg43JijVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738611452988-5h4k64vs2lloj8lauv6co3gm2uod38ba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738611452988-ecik0shcqjoq3r0likls7vv7c7pmq9jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.groomlyfe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738611452988:android:7a0dd8bc923fd1f60c3739",
+        "android_client_info": {
+          "package_name": "com.groomlyfe.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738611452988-2c7mcsk2nc1utgc98j46p945ffe8u6s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "9aecf6d7e9cbf240623dec97caad5550e80ece81"
+          }
+        },
+        {
+          "client_id": "738611452988-4413thnjpitvdo5111m546dladbvg1mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "c90452f2f3a6be0f6d4c6e5202f466b1a4026c84"
+          }
+        },
+        {
+          "client_id": "738611452988-8abhhe5metbtdr3v4d0apgci58i5gffl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "6e1dbb71b0b6d05fe6b115e2df32f83746b685db"
+          }
+        },
+        {
+          "client_id": "738611452988-98r96ji3rqj4gqg8gqn0aionlvhgjg5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "379cc697234cef4b4d2e6e2ae5709682c568954f"
+          }
+        },
+        {
+          "client_id": "738611452988-9l2rl6lugvgu966h69lmosoksi8qisoq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "1cf9e482d3c30a7fb052a170b40ce6f4c6ff9b28"
+          }
+        },
+        {
+          "client_id": "738611452988-budjes7q6qa70uoplvuj0d6fgmjpfldh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "818cfd3919844d18d5d5f7d39b734b280da4aa48"
+          }
+        },
+        {
+          "client_id": "738611452988-c8qhprb53dn1lnj1s1pbvvn4l8bh00tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "25f14d4ec472e358e770f5595b132b8cdf423ceb"
+          }
+        },
+        {
+          "client_id": "738611452988-ek0ucaa5aaa151feubm0ptgk2fp865hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "499c1b8e30ec447cd0b50f0edc741902df024d81"
+          }
+        },
+        {
+          "client_id": "738611452988-iasbeq9c4r78i77ver9smknia71jtkte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "cf75517407a0b40976090fa5ccd0b7bda0d3d852"
+          }
+        },
+        {
+          "client_id": "738611452988-kt2h7tqa10dihtq5u82111uami8iv1bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "96a99a75ae9c71e2877c77ad564995e93b819570"
+          }
+        },
+        {
+          "client_id": "738611452988-ssb4pea0r7rv5censip6snfovu7hup1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.groomlyfe.app",
+            "certificate_hash": "576a7fbbf1e21bfde05db9e4c512fd81f0b245e0"
+          }
+        },
+        {
+          "client_id": "738611452988-5h4k64vs2lloj8lauv6co3gm2uod38ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwv59d_dSyqyuqtMUoDIf4LJBg43JijVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738611452988-5h4k64vs2lloj8lauv6co3gm2uod38ba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738611452988-ecik0shcqjoq3r0likls7vv7c7pmq9jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.groomlyfe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

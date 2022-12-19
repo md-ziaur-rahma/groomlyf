@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.paypal.android.sdk:data-collector:3.15.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e5d6ed77e8d9d05eff6a14e9115d463c/transformed/jetified-data-collector-3.15.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e5d6ed77e8d9d05eff6a14e9115d463c/transformed/jetified-data-collector-3.15.0/jars/libs/paypal-data-collector-5.1.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5d6ed77e8d9d05eff6a14e9115d463c/transformed/jetified-data-collector-3.15.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e5d6ed77e8d9d05eff6a14e9115d463c/transformed/jetified-data-collector-3.15.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9e84a00d5ac459fef34d18d9e19e7139/transformed/jetified-data-collector-3.15.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9e84a00d5ac459fef34d18d9e19e7139/transformed/jetified-data-collector-3.15.0/jars/libs/paypal-data-collector-5.1.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9e84a00d5ac459fef34d18d9e19e7139/transformed/jetified-data-collector-3.15.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9e84a00d5ac459fef34d18d9e19e7139/transformed/jetified-data-collector-3.15.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

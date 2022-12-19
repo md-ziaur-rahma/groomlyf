@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.HBiSoft:HBRecorder:0.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d55a38ea3a2c0c13ca0deec897698f55/transformed/jetified-HBRecorder-0.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d55a38ea3a2c0c13ca0deec897698f55/transformed/jetified-HBRecorder-0.1.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d55a38ea3a2c0c13ca0deec897698f55/transformed/jetified-HBRecorder-0.1.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.HBiSoft/HBRecorder/0.1.4/b5f4f5d52e0a23e0b889a25bfa8f743c75f97140/HBRecorder-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
